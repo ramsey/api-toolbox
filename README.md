@@ -47,6 +47,25 @@ You should see output like this:
     Finished in 0.077 seconds
     2 tests, 20 assertions, 0 failures, 0 skipped
 
+## Running Dredd
+
+This also includes a sample [API Blueprint](https://apiblueprint.org/) document that you may use to run tests using [Dredd](https://github.com/apiaryio/dredd). Dredd is included when you run `npm install`.
+
+``` console
+$ ./node_modules/dredd/bin/dredd
+```
+
+You should see output like this:
+
+    Configuration dredd.yml found, ignoring other arguments.
+    Starting server with command: php -S 0.0.0.0:8000 index.php
+    Waiting 3 seconds for server command to start...
+    info: Beginning Dredd testing...
+    pass: GET /contacts/42 duration: 58ms
+    pass: GET /contacts duration: 108ms
+    complete: 2 passing, 0 failing, 0 errors, 0 skipped, 2 total
+    complete: Tests took 170ms
+
 ## A Note on the Sample Data
 
 The `us-500.csv` file was obtained freely from <https://www.briandunning.com/sample-data/>:
