@@ -1,0 +1,11 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "An API for managing contacts",
+  "author": "Ben Ramsey <ben@benramsey.com>",
+  "dependencies": {
+    "frisby": "~0.8",
+    "jasmine-node": "~1.11"
+  }
+}
+
