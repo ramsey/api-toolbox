@@ -2,6 +2,8 @@
 
 I used these examples in my presentation "A Toolbox for APIs and Integrations" at php[tek] 2015.
 
+The slides for this talk are available here: <http://benramsey.com/talks/2015/05/phptek-api-toolbox/>
+
 You'll need [PHP 5.5+](http://php.net/), [Composer](https://getcomposer.org/), and [Node.js](https://nodejs.org/) on your system to play with these examples.
 
 ## Installation
