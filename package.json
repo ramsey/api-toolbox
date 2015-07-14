@@ -4,7 +4,7 @@
   "description": "An API for managing contacts",
   "author": "Ben Ramsey <ben@benramsey.com>",
   "dependencies": {
-    "dredd": "^0.5.2",
+    "dredd": "~0.6",
     "frisby": "~0.8",
     "jasmine-node": "~1.11"
   }
