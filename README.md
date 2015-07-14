@@ -1,8 +1,8 @@
 # Contacts API Example
 
-I used these examples in my presentation "A Toolbox for APIs and Integrations" at php[tek] 2015.
+I used these examples in my presentation "A Toolbox for APIs and Integrations" at the Nashville PHP July 2015 user group meeting.
 
-The slides for this talk are available here: <http://benramsey.com/talks/2015/05/phptek-api-toolbox/>
+The slides for this talk are available here: <https://benramsey.com/talks/2015/07/nashvillephp-api-toolbox/>
 
 You'll need [PHP 5.5+](http://php.net/), [Composer](https://getcomposer.org/), and [Node.js](https://nodejs.org/) on your system to play with these examples.
 
